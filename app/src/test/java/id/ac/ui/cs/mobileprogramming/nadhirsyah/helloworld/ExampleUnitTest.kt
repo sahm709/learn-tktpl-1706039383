@@ -12,7 +12,17 @@ import org.junit.Assert.*
 class ExampleUnitTest {
     @Test
     fun addition_isCorrect() {
-        assertEquals(5, 2 + 3)
+        assertEquals(4, 2 + 2)
+    }
+    @Test
+    fun themeIsChanged(){
+        val activity = MainActivity()
+        assertEquals(activity.changeThemeMessage(), "change theme")
+    }
+    @Test
+    fun getButtonText(){
+        val activity = MainActivity()
+        assertEquals(activity.changeButtonMessage(), "Light Mode")
     }
 
 }
