@@ -37,6 +37,8 @@ class ExampleInstrumentedTest {
         onView(ViewMatchers.withId(R.id.button1)).perform(click()).check(ViewAssertions.matches(ViewMatchers.withText("Dark Mode")))
     }
 
+
+
     @Test
     fun useAppContext() {
         // Context of the app under test.
