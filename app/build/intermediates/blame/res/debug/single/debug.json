@@ -24,10 +24,6 @@
         "source": "D:\\Semester 7\\tktpl\\androidstudio\\HelloWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
     },
     {
-        "merged": "D:\\Semester 7\\tktpl\\androidstudio\\HelloWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_switch_btn_bg.xml.flat",
-        "source": "D:\\Semester 7\\tktpl\\androidstudio\\HelloWorld\\app\\src\\main\\res\\drawable-v24\\switch_btn_bg.xml"
-    },
-    {
         "merged": "D:\\Semester 7\\tktpl\\androidstudio\\HelloWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
         "source": "D:\\Semester 7\\tktpl\\androidstudio\\HelloWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
     },
@@ -50,10 +46,6 @@
     {
         "merged": "D:\\Semester 7\\tktpl\\androidstudio\\HelloWorld\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
         "source": "D:\\Semester 7\\tktpl\\androidstudio\\HelloWorld\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "D:\\Semester 7\\tktpl\\androidstudio\\HelloWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable_switch_btn_bg.xml.flat",
-        "source": "D:\\Semester 7\\tktpl\\androidstudio\\HelloWorld\\app\\src\\main\\res\\drawable\\switch_btn_bg.xml"
     },
     {
         "merged": "D:\\Semester 7\\tktpl\\androidstudio\\HelloWorld\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
