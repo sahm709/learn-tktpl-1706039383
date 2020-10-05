@@ -26,6 +26,11 @@ class MainActivity : AppCompatActivity() {
             exitFunction()
         }
     }
+    override fun onSaveInstanceState(savedInstanceState: Bundle) {
+        super.onSaveInstanceState(savedInstanceState)
+        savedInstanceState.putInt("seconds", seconds)
+        savedInstanceState.putBoolean("running", running)
+    }
     private fun exitFunction(){
         if (buttonPressedTime + 3000 > System.currentTimeMillis()){
             super.onBackPressed()
