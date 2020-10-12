@@ -40,10 +40,6 @@ object ClubContent {
                 "atau The Reds) adalah sebuah klub sepak bola asal Inggris yang berbasis di "+
                 "Kota Liverpool. Saat ini Liverpool adalah peserta Liga Utama Inggris. Liverpool "+
                 "juga merupakan juara dari Liga Utama Inggris musim 2019–2020."
-        ITEM_CLUB_DICT["Paris Saint-Germain"] = "Paris Saint-Germain Football Club atau dikenal luas dengan "+
-                "sebutan PSG merupakan sebuah tim sepak bola Prancis yang bermain di Ligue 1, Prancis. "+
-                "Bermarkas di Paris, Prancis. Klub ini didirikan pada 12 Agustus 1970, berkat penggabungan "+
-                "Paris FC dan dengan Stade Saint-Germain."
         ITEM_CLUB_DICT["Real Madrid"] = "Real Madrid Club de Fútbol, umumnya dikenal sebagai "+
                 "Real Madrid, adalah klub sepak bola profesional yang berbasis di Madrid, Spanyol. Didirikan "+
                 "pada tahun 1902 sebagai Madrid Football Club, secara tradisional mengenakan kostum kandang putih. "+
@@ -54,6 +50,10 @@ object ClubContent {
                 "sepak bola profesional yang berbasis di Barcelona, Catalunya, Spanyol.Didirikan pada tahun 1899 oleh sekelompok " +
                 "pemain Swiss, Inggris, Jerman dan Katalan yang dipimpin oleh Joan Gamper, klub telah menjadi simbol budaya "+
                 "Catalan dan Catalanisme, yang mempunyai motto \"Més que un club\" (Lebih dari sebuah klub)."
+        ITEM_CLUB_DICT["Paris Saint-Germain"] = "Paris Saint-Germain Football Club atau dikenal luas dengan "+
+                "sebutan PSG merupakan sebuah tim sepak bola Prancis yang bermain di Ligue 1, Prancis. "+
+                "Bermarkas di Paris, Prancis. Klub ini didirikan pada 12 Agustus 1970, berkat penggabungan "+
+                "Paris FC dan dengan Stade Saint-Germain."
     }
 
 
