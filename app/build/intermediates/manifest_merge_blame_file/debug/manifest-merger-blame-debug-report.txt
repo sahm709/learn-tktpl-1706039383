@@ -42,6 +42,17 @@
 25-->D:\Semester 7\tktpl\androidstudio\HelloWorld\app\src\main\AndroidManifest.xml:16:27-74
 26            </intent-filter>
 27        </activity>
-28    </application>
-29
-30</manifest>
+28
+29        <provider
+29-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\X550I\.gradle\caches\transforms-2\files-2.1\b4dd2bf19774dff90e7155c082dcf970\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+30            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+30-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\X550I\.gradle\caches\transforms-2\files-2.1\b4dd2bf19774dff90e7155c082dcf970\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+31            android:authorities="id.ac.ui.cs.mobileprogramming.nadhirsyah.helloworld.lifecycle-process"
+31-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\X550I\.gradle\caches\transforms-2\files-2.1\b4dd2bf19774dff90e7155c082dcf970\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+32            android:exported="false"
+32-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\X550I\.gradle\caches\transforms-2\files-2.1\b4dd2bf19774dff90e7155c082dcf970\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+33            android:multiprocess="true" />
+33-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\X550I\.gradle\caches\transforms-2\files-2.1\b4dd2bf19774dff90e7155c082dcf970\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+34    </application>
+35
+36</manifest>
