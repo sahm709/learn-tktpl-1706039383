@@ -21,7 +21,7 @@
       "properties": {
         "packageId": "id.ac.ui.cs.mobileprogramming.nadhirsyah.helloworld",
         "split": "",
-        "minSdkVersion": "16"
+        "minSdkVersion": "29"
       }
     }
   ]
