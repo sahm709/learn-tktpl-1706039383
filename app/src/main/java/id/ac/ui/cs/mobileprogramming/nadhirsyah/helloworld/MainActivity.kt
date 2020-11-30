@@ -12,6 +12,7 @@ import android.os.Build
 import android.os.Bundle
 import android.provider.ContactsContract.CommonDataKinds.Website.URL
 import android.util.Log
+import android.view.View
 import android.widget.Toast
 import androidx.annotation.RequiresApi
 import androidx.appcompat.app.AppCompatActivity
@@ -110,7 +111,7 @@ class MainActivity:AppCompatActivity() {
         }
         wifiAdapter = WifiAdapter(wifiList)
         wifiRC.adapter = wifiAdapter
-
+        sendButton.visibility = View.VISIBLE
     }
     private fun sendRequest(){
         val thread = Thread {

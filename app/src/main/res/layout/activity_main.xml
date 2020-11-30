@@ -20,12 +20,13 @@
         android:text="Scan WiFi" />
 
     <Button
+        android:visibility="invisible"
         android:id="@+id/sendButton"
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:layout_gravity="bottom"
         android:layout_margin="15dp"
         android:background="@color/colorPrimary"
-        android:text="Send WiFi" />
+        android:text="Send to Request Bin" />
 
 </LinearLayout>
