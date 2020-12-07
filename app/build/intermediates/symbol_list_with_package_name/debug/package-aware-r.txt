@@ -543,8 +543,6 @@ color foreground_material_dark
 color foreground_material_light
 color highlighted_text_material_dark
 color highlighted_text_material_light
-color mainBackground
-color mainText
 color material_blue_grey_800
 color material_blue_grey_900
 color material_blue_grey_950
@@ -579,7 +577,6 @@ color switch_thumb_material_dark
 color switch_thumb_material_light
 color switch_thumb_normal_material_dark
 color switch_thumb_normal_material_light
-color textAlt
 color tooltip_background_dark
 color tooltip_background_light
 dimen abc_action_bar_content_inset_material
@@ -807,7 +804,6 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
-drawable switch_btn_bg
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 id ALT
@@ -891,7 +887,6 @@ id beginning
 id blocking
 id bottom
 id bounce
-id button1
 id buttonPanel
 id center
 id center_vertical
@@ -926,6 +921,7 @@ id dragUp
 id easeIn
 id easeInOut
 id easeOut
+id editText1
 id edit_query
 id end
 id expand_activities_button
@@ -937,8 +933,6 @@ id graph
 id graph_wrap
 id group_divider
 id groups
-id guideline
-id guideline2
 id home
 id homeAsUp
 id honorRequest
@@ -970,6 +964,7 @@ id normal
 id notification_background
 id notification_main_column
 id notification_main_column_container
+id numberButton
 id off
 id on
 id packed
