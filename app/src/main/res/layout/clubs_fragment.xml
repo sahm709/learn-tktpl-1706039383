@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/clubs_details_linear"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ClubsFragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/clubs_details_name"
+        android:textAlignment="center"
+        android:gravity="center_horizontal"
+        android:textSize="26sp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="20dp"
+        android:textColor="@color/black"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/clubs_details_content"
+        android:justificationMode="inter_word"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:textSize="16sp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="20dp"
+        android:textColor="@color/black"/>
+
+</LinearLayout>
